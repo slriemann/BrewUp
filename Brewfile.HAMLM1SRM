@@ -1,0 +1,113 @@
+tap "buo/cask-upgrade"
+tap "cloudflare/cloudflare"
+tap "dart-lang/dart"
+tap "go-delve/delve"
+tap "graalvm/tap"
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/cask-versions"
+tap "homebrew/core"
+tap "homebrew/services"
+cask "xquartz"
+brew "ant"
+brew "sqlite"
+brew "asciinema"
+brew "augeas"
+brew "autossh"
+brew "awscli"
+brew "bash-completion"
+brew "caddy"
+brew "coreutils"
+brew "ctags"
+brew "delve"
+brew "dialog"
+brew "dnsmasq", restart_service: true
+brew "docker-machine-parallels"
+brew "fn"
+brew "git"
+brew "go"
+brew "hugo"
+brew "oniguruma"
+brew "jq"
+brew "libxml2"
+brew "mas"
+brew "maven"
+brew "mitmproxy"
+brew "multimarkdown"
+brew "nmap"
+brew "node"
+brew "node@12"
+brew "pandoc"
+brew "qrencode"
+brew "reattach-to-user-namespace"
+brew "ruby", link: true
+brew "socat"
+brew "speedtest-cli"
+brew "terminal-notifier"
+brew "tiger-vnc"
+brew "tmux"
+brew "tree"
+brew "vim"
+brew "wireguard-go"
+brew "wireguard-tools"
+brew "z"
+brew "zsh"
+brew "zsh-autosuggestions"
+brew "zsh-completions"
+brew "zsh-syntax-highlighting"
+brew "cloudflare/cloudflare/cloudflared"
+cask "android-platform-tools"
+cask "appcleaner"
+cask "cakebrew"
+cask "calibre"
+cask "iterm2"
+cask "jd-gui"
+cask "kitematic"
+cask "launchrocket"
+cask "mysqlworkbench"
+cask "namebench"
+cask "netbeans-java-ee"
+cask "notable"
+cask "onyx"
+cask "postman"
+cask "powershell"
+cask "robomongo"
+cask "srware-iron"
+cask "tunnelblick"
+cask "virtualbox"
+cask "visual-studio-code"
+mas "Caffeine", id: 411246225
+mas "CheatSheet", id: 529456740
+mas "CleanMyDrive 2", id: 523620159
+mas "DaisyDisk", id: 411643860
+mas "Dash", id: 449589707
+mas "Deckset", id: 847496013
+mas "Diagrammix", id: 418534796
+mas "Disk Diet", id: 445512770
+mas "DreamShot", id: 689844304
+mas "Foldery", id: 815333099
+mas "Gemini", id: 463541543
+mas "GIF Brewery 3", id: 1081413713
+mas "Glui", id: 601359958
+mas "iThoughtsX", id: 720669838
+mas "Keynote", id: 409183694
+mas "Kuvva", id: 451557061
+mas "Lightshot Screenshot", id: 526298438
+mas "Markdown Pro", id: 465965038
+mas "Marked 2", id: 890031187
+mas "Microsoft Remote Desktop", id: 715768417
+mas "Monit", id: 1014850245
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Palua", id: 431494195
+mas "Paste", id: 967805235
+mas "PDFScanner", id: 410968114
+mas "PopClip", id: 445189367
+mas "ScreenFloat", id: 414528154
+mas "Screeny", id: 440991524
+mas "Silkscreen", id: 475153908
+mas "SnapNDrag Pro", id: 430397512
+mas "Soulver", id: 413965349
+mas "tiny Reader", id: 1430856926
+mas "WireGuard", id: 1451685025
+mas "Yoink", id: 457622435
