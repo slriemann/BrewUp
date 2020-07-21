@@ -71,7 +71,6 @@ cask "onyx"
 cask "postman"
 cask "robomongo"
 cask "tunnelblick"
-cask "virtualbox"
 cask "visual-studio-code"
 mas "Caffeine", id: 411246225
 mas "CheatSheet", id: 529456740
