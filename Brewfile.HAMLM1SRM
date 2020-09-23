@@ -39,6 +39,7 @@ brew "node"
 brew "node@12"
 brew "pandoc"
 brew "qrencode"
+brew "rcm"
 brew "reattach-to-user-namespace"
 brew "ruby", link: true
 brew "socat"
