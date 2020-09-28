@@ -45,7 +45,6 @@ brew "ruby", link: true
 brew "socat"
 brew "speedtest-cli"
 brew "terminal-notifier"
-brew "tiger-vnc"
 brew "tmux"
 brew "tree"
 brew "wireguard-go"
