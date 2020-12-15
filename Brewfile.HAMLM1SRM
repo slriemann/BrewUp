@@ -42,7 +42,6 @@ brew "libxml2"
 brew "libvirt", restart_service: true
 brew "mas"
 brew "maven"
-brew "mitmproxy"
 brew "multimarkdown"
 brew "nmap"
 brew "node"
