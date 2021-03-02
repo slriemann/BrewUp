@@ -95,6 +95,7 @@ cask "postman"
 cask "robomongo"
 cask "tor-browser"
 cask "tunnelblick"
+cask "utm"
 cask "visual-studio-code"
 mas "Caffeine", id: 411246225
 mas "CheatSheet", id: 529456740
