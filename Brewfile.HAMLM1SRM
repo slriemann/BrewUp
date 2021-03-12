@@ -45,6 +45,7 @@ brew "libxml2"
 brew "libvirt", restart_service: true
 brew "mas"
 brew "maven"
+brew "meson"
 brew "mkcert"
 brew "multimarkdown"
 brew "nmap"
