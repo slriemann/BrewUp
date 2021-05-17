@@ -105,14 +105,11 @@ cask "virtualbox"
 cask "virtualbox-extension-pack"
 cask "visual-studio-code"
 cask "vlc"
-mas "Caffeine", id: 411246225
-mas "CheatSheet", id: 529456740
 mas "CleanMyDrive 2", id: 523620159
 mas "DaisyDisk", id: 411643860
 mas "Deckset", id: 847496013
 mas "Diagrammix", id: 418534796
 mas "Disk Diet", id: 445512770
-mas "EtreCheck", id: 1423715984
 mas "Foldery", id: 815333099
 mas "GIF Brewery 3", id: 1081413713
 mas "Glui", id: 601359958
@@ -121,10 +118,8 @@ mas "Keynote", id: 409183694
 mas "Lightshot Screenshot", id: 526298438
 mas "Markdown Pro", id: 465965038
 mas "Marked 2", id: 890031187
-mas "Microsoft Remote Desktop", id: 715768417
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
-mas "Palua", id: 431494195
 mas "Paste", id: 967805235
 mas "PDFScanner", id: 410968114
 mas "PopClip", id: 445189367
