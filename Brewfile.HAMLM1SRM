@@ -18,7 +18,6 @@ brew "ant"
 brew "asciinema"
 brew "augeas"
 brew "autossh"
-brew "awscli"
 brew "bash-completion"
 brew "caddy"
 brew "coreutils"
@@ -56,6 +55,7 @@ brew "node"
 brew "node@12"
 brew "ocrmypdf"
 brew "pandoc"
+brew "qemu", args: ["HEAD"]
 brew "qrencode"
 brew "rcm"
 brew "reattach-to-user-namespace"
@@ -119,6 +119,7 @@ mas "Keynote", id: 409183694
 mas "Lightshot Screenshot", id: 526298438
 mas "Markdown Pro", id: 465965038
 mas "Marked 2", id: 890031187
+mas "Microsoft Remote Desktop", id: 1295203466
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Paste", id: 967805235
