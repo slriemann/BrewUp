@@ -55,7 +55,7 @@ brew "node"
 brew "node@12"
 brew "ocrmypdf"
 brew "pandoc"
-brew "qemu", args: ["HEAD"]
+brew "qemu"
 brew "qrencode"
 brew "rcm"
 brew "reattach-to-user-namespace"
